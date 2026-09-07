@@ -1,4 +1,2 @@
-نام کاربری ادمین اصلی : amir@gmail.com 
-رمز :   (از هشت تا یک)87654321
-نام کاربری یوزر : amirmorad@gmail.com
-رمز : 87654321
+main-admin-username : amir@gmail.com 
+pass : 87654321
